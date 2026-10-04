@@ -1,0 +1,9 @@
+{
+  "name": "Practice App",
+  "short_name": "Practice",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f7f6f2",
+  "theme_color": "#f7f6f2",
+  "description": "A simple progressive practice tool for any skill."
+}
