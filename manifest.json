@@ -1,9 +1,1 @@
-{
-  "name":"Practice App",
-  "short_name":"Practice",
-  "start_url":"./",
-  "display":"standalone",
-  "background_color":"#f5f3ed",
-  "theme_color":"#f5f3ed",
-  "icons":[]
-}
+{"name":"Pebble","short_name":"Pebble","start_url":"./","scope":"./","display":"standalone","background_color":"#f5f3ed","theme_color":"#f5f3ed","icons":[]}
